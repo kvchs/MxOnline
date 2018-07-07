@@ -169,10 +169,10 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # 发送邮件设置
 EMAIL_HOST = 'smtp.163.com'
 EMAIL_PORT = '25'
-EMAIL_HOST_USER = '15680488752@163.com'
-EMAIL_HOST_PASSWORD = 'ma2222de'
+EMAIL_HOST_USER = '152@163.com'
+EMAIL_HOST_PASSWORD = 'm******e'
 EMAIL_USE_TLS = False
-EMAIL_FROM = '15680488752@163.com'
+EMAIL_FROM = '12@163.com'
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
